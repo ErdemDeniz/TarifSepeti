@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3C3F41">
+
+    <ImageView
+        android:id="@+id/profile_image_view"
+        android:layout_width="132dp"
+        android:layout_height="132dp"
+        android:src="@drawable/ic_account_circle"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="32dp">
+        <TextView
+            android:id="@+id/first_name_text_view"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Ad"
+            android:textSize="24dp"/>
+        <TextView
+            android:id="@+id/last_name_text_view"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Soyad"
+            android:textSize="24dp"/>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/add_recipe_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tarif Ekle"
+        android:layout_margin="98dp"/>
+</LinearLayout>

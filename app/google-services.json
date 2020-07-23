@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750721179613",
+    "firebase_url": "https://tarif-sepeti-a5a0c.firebaseio.com",
+    "project_id": "tarif-sepeti-a5a0c",
+    "storage_bucket": "tarif-sepeti-a5a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750721179613:android:23a34bd6bfad326b83e034",
+        "android_client_info": {
+          "package_name": "com.yjs3408.tarifsepeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750721179613-mkvt2f6ur2aur4k2qnpcgm4bhj2rphgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDz7tgeGDMGtxjX67Ra-MZrjTq7g4Bmzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750721179613-mkvt2f6ur2aur4k2qnpcgm4bhj2rphgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

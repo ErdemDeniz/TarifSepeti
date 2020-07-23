@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarif Sepeti</string>
+
+    <string-array name="category">
+        <item>Ana Yemek</item>
+        <item>Salata</item>
+        <item>Tatlı</item>
+        <item>Çorba</item>
+    </string-array>
+</resources>
